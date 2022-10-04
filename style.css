@@ -191,10 +191,12 @@ body {
 }
 
 .bottom-container {
+  margin: auto;
   margin-bottom: 150px;
   position: relative;
+  display: flex;
   top: 50px;
-  text-align: center;
+  justify-content: center;
 }
 
 .btn, .btn1 {
